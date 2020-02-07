@@ -1,5 +1,4 @@
 #ACE201_LAB3
-#Authors: elioudakis,mlyrakis
 
 .data ##Data declaration section
 
