@@ -1,5 +1,4 @@
 ##ACE 201-- LAB 5
-##Authors: elioudakis, mlyrakis
 
 .data ##Data declaration section
 
