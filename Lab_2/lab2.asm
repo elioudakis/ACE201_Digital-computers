@@ -1,7 +1,6 @@
 #Description
 #Course: ACE201
 #Lab: 2nd
-#Authors: elioudakis, mlyrakis
 
 .data ##Data declaration section
 
